@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/mrj/my_android/github_project/SwipeDeleteListView/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/mrj/my_android/github_project/SwipeDeleteListView/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.4.0_6c77be6b0f7716c2cf2a5d948641a3b4919a646e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mrj/my_android/github_project/SwipeDeleteListView/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/mrj/my_android/github_project/SwipeDeleteListView/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.4.0_11536cab3b84dacdf294bb48e822ffc53c2e5b64.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mrj/my_android/github_project/SwipeDeleteListView/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/mrj/my_android/github_project/SwipeDeleteListView/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_e3e0788509ef7d9168848e08bc07a709dc751327.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mrj/my_android/github_project/SwipeDeleteListView/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/mrj/my_android/github_project/SwipeDeleteListView/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.4.0_479794426c8d20ee40963776a6aac175883019ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mrj/my_android/github_project/SwipeDeleteListView/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/mrj/my_android/github_project/SwipeDeleteListView/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_1486d4b58f7a16ef7cf712c7f4c1e04b14002647.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mrj/my_android/github_project/SwipeDeleteListView/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="37a8db6d35c5a94219607cfc3401d645e4f7a831">
+        <dex dex="/Users/mrj/my_android/github_project/SwipeDeleteListView/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_848b7f9f579fd6e52feb8009e97535118d90d173.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mrj/my_android/github_project/SwipeDeleteListView/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="368e86bcb9c7d94f6e930e04975770e7e8f2dc88">
+        <dex dex="/Users/mrj/my_android/github_project/SwipeDeleteListView/app/build/intermediates/pre-dexed/debug/instant-run_4f8005adff8d0cd857a10a5d02c92f2d6a13cf44.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mrj/my_android/github_project/SwipeDeleteListView/app/build/intermediates/exploded-aar/com.daimajia.swipelayout/library/1.1.7/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7ce2fe83f98bbd9656de4756166a0a5f444a996a">
+        <dex dex="/Users/mrj/my_android/github_project/SwipeDeleteListView/app/build/intermediates/pre-dexed/debug/com.daimajia.swipelayout-library-1.1.7_b95a1bbd11cf85d6b1aff529b0e7579695f11575.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mrj/liangjie/adt-bundle-mac-x86_64-20131030/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/mrj/my_android/github_project/SwipeDeleteListView/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_d1ac76dcb83d311c7297d36492d14734dc026b3e.jar" />
+    </item>
+
+</items>
